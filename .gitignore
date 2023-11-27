@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Nimbus.API/.vs/Nimbus.API
+/Nimbus.API/Nimbus.API/obj
